@@ -1,6 +1,4 @@
 package LetsLearnGit.LetsLearnGit;
-
-
 public class Secretkey {
 public static void main(String[] args) {
 	int a =2;
